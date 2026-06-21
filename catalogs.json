@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "catalogs": [
+    {
+      "id": "manhwa",
+      "name": "Manhwa",
+      "type": "manhwa",
+      "file": "catalog-manhwa.json",
+      "count": 2809
+    },
+    {
+      "id": "webnovel",
+      "name": "Web Novels",
+      "type": "webnovel",
+      "file": "catalog-webnovel.json",
+      "count": 4621
+    }
+  ]
+}
